@@ -42,6 +42,7 @@ jupyter_server_terminals @ file:///croot/jupyter_server_terminals_1686870725608/
 jupyterlab @ file:///croot/jupyterlab_1737555423487/work
 jupyterlab_pygments @ file:///croot/jupyterlab_pygments_1741124142640/work
 jupyterlab_server @ file:///croot/jupyterlab_server_1725865349919/work
+kagglehub==0.3.11
 kiwisolver @ file:///croot/kiwisolver_1737039087198/work
 MarkupSafe @ file:///croot/markupsafe_1738584038848/work
 matplotlib==3.10.0
@@ -99,6 +100,7 @@ terminado @ file:///work/ci_py311/terminado_1677696151350/work
 threadpoolctl @ file:///croot/threadpoolctl_1719407800858/work
 tinycss2 @ file:///croot/tinycss2_1738337643607/work
 tornado @ file:///croot/tornado_1733960490606/work
+tqdm==4.67.1
 traitlets @ file:///croot/traitlets_1718227057033/work
 typing_extensions @ file:///croot/typing_extensions_1734714854207/work
 tzdata @ file:///croot/python-tzdata_1690578112552/work
